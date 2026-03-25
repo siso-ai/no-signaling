@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "name": "bell-nosignaling",
+  "version": "1.0.0",
+  "description": "SISO Bell Test No-Signaling Residual Analysis Pipeline"
+}
